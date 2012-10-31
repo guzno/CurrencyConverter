@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name">CurrencyConverter</string>
+    <string name="app_name">Currency</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">Currency Converter</string>
+    <string name="title_activity_main">Currency</string>
     <string name="update_button">Update</string>
     <string name="to_label">To:</string>
     <string name="from_label">From:</string>

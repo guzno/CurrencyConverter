@@ -4,11 +4,6 @@
           android:icon="@drawable/menu_settings"
           android:orderInCategory="100"
           android:showAsAction="ifRoom"/>
-    <item android:id="@+id/menu_reverse"
-          android:icon="@drawable/menu_reverse"
-          android:title="@string/menu_reverse"
-          android:showAsAction="always|withText"
-          android:orderInCategory="1"/>
     <item android:id="@+id/menu_update"
           android:icon="@drawable/menu_update"
           android:title="@string/menu_refresh"

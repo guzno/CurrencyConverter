@@ -19,15 +19,15 @@ public final class R {
         public static final int menu_reverse=0x7f020002;
         public static final int menu_settings=0x7f020003;
         public static final int menu_update=0x7f020004;
+        public static final int reverse=0x7f020005;
     }
     public static final class id {
         public static final int amount=0x7f090000;
         public static final int from_currency=0x7f090001;
-        public static final int menu_reverse=0x7f090008;
         public static final int menu_settings=0x7f090007;
-        public static final int menu_update=0x7f090009;
+        public static final int menu_update=0x7f090008;
         public static final int result=0x7f090003;
-        public static final int result_label=0x7f090002;
+        public static final int reverse_button=0x7f090002;
         public static final int spinnerTarget=0x7f090006;
         public static final int time_label=0x7f090005;
         public static final int to_currency=0x7f090004;
