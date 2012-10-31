@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">CurrencyConverter</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Currency Converter</string>
+    <string name="update_button">Update</string>
+    <string name="to_label">To:</string>
+    <string name="from_label">From:</string>
+    <string name="amount_hint">Input amount here</string>
+    <string name="amount">1</string>
+    <string name="amount_label">Amount:</string>
+    <string name="result_label">Equals</string>
+    <string name="result">0</string>
+    <string name="time_label"></string>
+    <string name="menu_refresh">Update</string>
+    <string name="menu_reverse">Reverse</string>
+    
+    <string-array name="currencies">
+        <item >SEK</item>
+        <item >USD</item>
+        <item >EUR</item>
+        <item >GBP</item>
+        <item >JPY</item>
+        <item >CNY</item>
+        <item >INR</item>
+    </string-array>
+
+</resources>
