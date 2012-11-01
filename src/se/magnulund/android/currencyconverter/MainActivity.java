@@ -82,6 +82,8 @@ public class MainActivity extends Activity implements OnItemSelectedListener {
                 output.setText(SuperUtil.getResult(input, toSpinner.getSelectedItem().toString(), fromSpinner.getSelectedItem().toString()));
             }
         });
+
+        this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
     }
 
     final SuperUtil.ISuperUtil callback = new SuperUtil.ISuperUtil() {
